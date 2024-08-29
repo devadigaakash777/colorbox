@@ -14,12 +14,14 @@ a {
     font-family:Arial, sans-serif;
 }
 
+
 p {
    font-size: 25px;
    font-family:Arial, sans-serif;
    text-align:center;
 }
 
+/*because there is no other img (div img ) is removed*/
 img{
   width:100%;
   height: auto;
