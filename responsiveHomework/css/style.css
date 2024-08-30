@@ -48,6 +48,7 @@ div{
 @media all and (min-width: 772px){
     div{
         width:45vh;
+        display: inline-block;
     }
     div img{
         max-height: 30vh;
